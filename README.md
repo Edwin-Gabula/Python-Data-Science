@@ -16,22 +16,20 @@ The repository follows a practical progression:
 8. **Statistics** — Statistical concepts for data analysis
 9. **Machine Learning** — Predictive modeling and applied machine learning
 
-.
-
-🎯 Approach
+## 🎯 Approach
 
 The goal is not simply to memorize Python syntax or visualization functions.
 
 Each topic is studied through:
 
-Concepts and theory
-Practical examples
-Real-world datasets
-Exercises
-Challenges
-Data analysis workflows
-Visualization
-Interpretation of results
+1. **Concepts and theory
+2. **Practical examples
+3. **Real-world datasets
+4. **Exercises
+5. **Challenges
+6. **Data analysis workflows
+7. **Visualization
+8. **Interpretation of results
 
 Particular emphasis is placed on understanding why a particular technique is used, rather than simply learning how to execute it.
 
