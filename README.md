@@ -60,35 +60,29 @@ This provides a bridge between programming and practical data-driven problem sol
 Additional technologies will be added as the learning journey progresses.
 
 ## 📈 Progress
- * Python foundations 🟢
- * NumPy fundamentals 🟢
- * Pandas fundamentals 🟢
- * Advanced Pandas
- * Data cleaning
- * Exploratory Data Analysis
- * Matplotlib
- * Seaborn
- * Plotly
- * Statistics
- * Machine Learning
+ * 🟢 Python foundations 
+ * 🟢 NumPy fundamentals 
+ * 🟢 Pandas fundamentals 
+ * ⚪ Advanced Pandas
+ * ⚪ Data cleaning
+ * ⚪ Exploratory Data Analysis
+ * ⚪ Matplotlib
+ * ⚪ Seaborn
+ * ⚪ Plotly
+ * ⚪ Statistics
+ * ⚪ Machine Learning
 
-## 📂 Repository Structure
 
-```text
-Python Data Science/
-│
-├── Panda-Numpy/
-│   ├── NumPy/
-│   └── Pandas/
-│
-├── Data Visualization/
-│   ├── Matplotlib/
-│   ├── Seaborn/
-│   └── Plotly/
-│
-├── datasets/
-│
-├── notebooks/
-│
-├── README.md
-└── .gitignore
+
+---
+## Author
+
+**Edwin Gabula**
+
+Bachelor of Pharmacy (BPharm), 
+Makerere University
+
+Pharmacist | Bioinformatics Enthusiast | Python & Django Developer | JavaScript Developer
+
+---
+
