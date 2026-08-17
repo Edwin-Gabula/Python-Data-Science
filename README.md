@@ -40,26 +40,26 @@ Examples and exercises will increasingly use realistic datasets, particularly in
 * Pharmacy
 * Healthcare
 * Pharmaceutical supply chains
-Medicine sales
-Inventory management
-Clinical and biomedical data
-Scientific research
+* Medicine sales
+* Inventory management
+* Clinical and biomedical data
+* Scientific research
 
 This provides a bridge between programming and practical data-driven problem solving.
 
-🛠️ Tools & Technologies
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Plotly
-Jupyter Notebook
-Git & GitHub
+## 🛠️ Tools & Technologies
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebook
+* Git & GitHub
 
 Additional technologies will be added as the learning journey progresses.
 
-📈 Progress
+## 📈 Progress
  Python foundations
  NumPy fundamentals
  Pandas fundamentals
