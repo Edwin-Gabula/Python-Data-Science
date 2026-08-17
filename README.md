@@ -16,6 +16,64 @@ The repository follows a practical progression:
 8. **Statistics** — Statistical concepts for data analysis
 9. **Machine Learning** — Predictive modeling and applied machine learning
 
+.
+
+🎯 Approach
+
+The goal is not simply to memorize Python syntax or visualization functions.
+
+Each topic is studied through:
+
+Concepts and theory
+Practical examples
+Real-world datasets
+Exercises
+Challenges
+Data analysis workflows
+Visualization
+Interpretation of results
+
+Particular emphasis is placed on understanding why a particular technique is used, rather than simply learning how to execute it.
+
+🧪 Applied Data Science
+
+Examples and exercises will increasingly use realistic datasets, particularly in areas such as:
+
+Pharmacy
+Healthcare
+Pharmaceutical supply chains
+Medicine sales
+Inventory management
+Clinical and biomedical data
+Scientific research
+
+This provides a bridge between programming and practical data-driven problem solving.
+
+🛠️ Tools & Technologies
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Plotly
+Jupyter Notebook
+Git & GitHub
+
+Additional technologies will be added as the learning journey progresses.
+
+📈 Progress
+ Python foundations
+ NumPy fundamentals
+ Pandas fundamentals
+ Advanced Pandas
+ Data cleaning
+ Exploratory Data Analysis
+ Matplotlib
+ Seaborn
+ Plotly
+ Statistics
+ Machine Learning
+
 ## 📂 Repository Structure
 
 ```text
