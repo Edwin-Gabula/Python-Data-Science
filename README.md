@@ -60,9 +60,9 @@ This provides a bridge between programming and practical data-driven problem sol
 Additional technologies will be added as the learning journey progresses.
 
 ## 📈 Progress
- * Python foundations
- * NumPy fundamentals
- * Pandas fundamentals
+ * Python foundations 🟢
+ * NumPy fundamentals 🟢
+ * Pandas fundamentals 🟢
  * Advanced Pandas
  * Data cleaning
  * Exploratory Data Analysis
