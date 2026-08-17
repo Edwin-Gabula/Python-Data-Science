@@ -22,24 +22,24 @@ The goal is not simply to memorize Python syntax or visualization functions.
 
 Each topic is studied through:
 
-1. **Concepts and theory
-2. **Practical examples
-3. **Real-world datasets
-4. **Exercises
-5. **Challenges
-6. **Data analysis workflows
-7. **Visualization
-8. **Interpretation of results
+1. **Concepts and theory**
+2. **Practical examples**
+3. **Real-world datasets**
+4. **Exercises**
+5. **Challenges**
+6. **Data analysis workflows**
+7. **Visualization**
+8. **Interpretation of results**
 
 Particular emphasis is placed on understanding why a particular technique is used, rather than simply learning how to execute it.
 
-🧪 Applied Data Science
+## 🧪 Applied Data Science
 
 Examples and exercises will increasingly use realistic datasets, particularly in areas such as:
 
-Pharmacy
-Healthcare
-Pharmaceutical supply chains
+* Pharmacy
+* Healthcare
+* Pharmaceutical supply chains
 Medicine sales
 Inventory management
 Clinical and biomedical data
